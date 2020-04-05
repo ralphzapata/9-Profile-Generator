@@ -1,0 +1,29 @@
+{
+  "name": "9-profile-generator",
+  "version": "1.0.0",
+  "description": "Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphzapata/9-Profile-Generator.git"
+  },
+  "keywords": [
+    "profile",
+    "generator"
+  ],
+  "author": "Ralph Zapata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphzapata/9-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/ralphzapata/9-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.1.0",
+    "require": "^2.4.20"
+  }
+}
