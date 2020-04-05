@@ -1,5 +1,5 @@
 const fs = require("fs");
-const pdf = require("html-pdf");
+const pdf = require("npm ");
 const axios = require("axios");
 const inquirer = require("inquirer");
 
