@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ralphzapata/9-Profile-Generator#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "inquirer": "^7.1.0",
     "require": "^2.4.20"
   }
